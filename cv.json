@@ -1,42 +1,42 @@
 {
   "basics": {
-    "name": "John Doe",
+    "name": "Andrew Weisbeck",
     "label": "Junior Full Stack Developer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
+    "email": "andrew.weisbeck@gmail.com",
+    "phone": "+1 919-638-6663",
+    "url": "https://geauxweisbeck4.dev",
     "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
     "theme": "default",
     "location": {
-      "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "address": "2031 Honeycutt Drive Suite 100",
+      "postalCode": "27707",
+      "city": "Durham",
+      "countryCode": "US",
+      "region": "North Carolina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "geauxweisbeck4",
+        "url": "https://linkedin.com/in/geauxweisbeck4"
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "geauxweisbeck4",
+        "url": "https://x.com/geauxweisbeck4"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "geauxweisbeck4",
+        "url": "https://github.com/geauxweisbeck4"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "Geaux Code",
+      "position": "Freelance Web Developer",
       "location_type": "On site",
       "location": "Auckland, New Zealand",
       "url": "https://techstartup.com",
