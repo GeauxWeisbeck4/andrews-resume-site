@@ -1,79 +1,86 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Andrew Weisbeck",
+    "label": "Freelance Full Stack Developer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "email": "andrew.weisbeck@gmail.com",
+    "phone": "+1 919-638-6663",
+    "url": "https://geauxweisbeck4.dev",
+    "summary": "With over 3 years of experience as a freelance developer, I am driven by a continual love of learning and innovation. My career is marked by efforts to develop web-based applications and improve product quality through code optimization and proactive problem-solving.",
     "theme": "default",
     "location": {
-      "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
+      "address": "Franklin St",
+      "postalCode": "27609",
+      "city": "Chapel Hill",
       "countryCode": "NZ",
       "region": "New Zealand"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "geauxweisbeck4",
+        "url": "https://linkedin.com/in/geauxweisbeck4"
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "geauxweisbeck4",
+        "url": "https://x.com/geauxweisbeck4"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "geauxweisbeck4",
+        "url": "https://github.com/geauxweisbeck4"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "Tar Heel Dev Studio",
+      "position": "Freelance Full Stack Developer",
+      "location_type": "Remote",
+      "location": "Chapel Hill, North Carolina",
+      "url": "https://tarheeldevstudio.deno.com",
+      "startDate": "2021-11-22",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Develop, test, and deploy web applications for new clients. Manage content and marketing for small business clients. Design user interfaces, websites, and interactive components that improve user experience.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Created my own freelance studio and manage the day-to-day operations"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Deployed 10 full-stack web applications using MongoDB, Express, React, and Node.js.",
+        "Improved web app performance by 20% using Sentry and Open Replay for performance analysis.",
+        "Integrated third-party APIs to extend app functionality, enhancing user satisfaction scores by 35%.",
+        "Streamlined deployment process through Docker containerization, shortening release cycles by 50%.",
+        "Facilitated community feature adoption by contributing to open-source repositories, benefiting 5 projects."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Help clients double the traffic to their website with improved website performance and effective storytelling."
       ],
       "skills": [
         "React",
         "Tailwind",
-        "GitHub"
+        "MongoDB",
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "UI/UX Design",
+        "Marketing"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "Iron Range Cyber, formerly CyberOpz",
+      "position": "SOC Analyst",
+      "location_type": "Remote",
+      "location": "Raleigh, North Carolina",
+      "url": "https://ironrangecyber.com",
+      "startDate": "2021-06-01",
+      "endDate": "2021-11-22",
+      "summary": "Responsible for monitoring endpoints, reporting any security incidents to senior SOC analysts, and investigating cyber forensics of any hacking attempt or breach of client assets.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "Contributed to streamlining processes for a startup cyber security company. Reduced critical client security incidents 100% by catching any breaches of security early enough to prevent loss of assets and criticial information."
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
+        "Improved incident response rate by 15% by coordinating with SOC managers\nand analyzing security events.",
         "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
         "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
       ],
