@@ -81,27 +81,31 @@
       ],
       "responsibilities": [
         "Improved incident response rate by 15% by coordinating with SOC managers\nand analyzing security events.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Managed over 100 security assessments using Nessus, Wireshark, and Metasploit tools.",
+        "Enhanced system security by evaluating and improving authentication methods by 20%.",
+        "Informed cyber defenders, ensuring threat awareness for 50 potential impacts.",
+        "Influenced cyber strategy for 5 clients by presenting clear technical solutions.",
+        "Reduced overall incident response time by 30%, optimizing threat detection processes using Malwarebytes, Witfoo, and IRIS."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Learned cybersecurity and was capable of all job functions within the first month of being hired."
       ],
       "skills": [
         "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Pentesting",
+        "Networking",
+        "Threat Identification",
+        "Incident Response"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "WeisMind Studio",
+      "position": "Content Creator and Freelance Writer",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "location": "Durham, NC, USA",
+      "startDate": "2016-09-01",
+      "endDate": "Present",
+      "summary": "Created multiple blogs and completed freelance writing assignments for over 50 clients.",
       "highlights": [
         "Completed several client projects successfully"
       ],
@@ -120,18 +124,18 @@
       "endDate": "2022-01-01",
       "summary": "Helped organize coding workshops and mentored new members.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Write technical tutorials about web development and share with an audience of over 1,000 web developers each week."
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
+      "institution": "University of Nebraska-Lincoln",
+      "url": "https://unl.edu",
+      "area": "Business Administration and Finance",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
+      "startDate": "2010-09-01",
+      "endDate": "2014-05-10",
       "score": "3.8",
       "courses": [
         "CS101 - Introduction to Computer Science",
@@ -145,7 +149,7 @@
       "studyType": "Master",
       "startDate": "2020-09-01",
       "endDate": "2022-12-01",
-      "score": "3.9",
+      "score": "3.0",
       "courses": [
         "SE201 - Advanced Software Development",
         "SE202 - Software Architecture and Design"
