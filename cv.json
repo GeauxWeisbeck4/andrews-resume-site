@@ -35,141 +35,148 @@
   },
   "work": [
     {
-      "name": "Geaux Code",
+      "name": "Tar Heel Dev Studio",
       "position": "Freelance Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "location_type": "Remote",
+      "location": "Chapel Hill-Durham, North Carolina",
+      "url": "https://tarheeldevstudio.com",
+      "startDate": "2022-01-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Design, market, and develop full-stack applications and websites for small businesses and non-profits.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Manage entire web development studio's operations as owner and sole developer."
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Created and manage five open-source projects that provide software dependencies and productivity tools.",
+        "Improved web app performance by 20% using Sentry and Open Replay for performance analysis.",
+        "Integrated third-party APIs to extend app functionality, enhancing user satisfaction scores by 35%.",
+        "Streamlined deployment process through Docker containerization, shortening release cycles by 50%.",
+        "Facilitated community feature adoption by contributing to open-source repositories, benefiting 5 projects."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Help clients double their website traffic with improved website performance,effective storytelling, and SEO."
       ],
       "skills": [
         "React",
         "Tailwind",
-        "GitHub"
+        "MongoDB",
+        "Node.js",
+        "Astro",
+        "PostgreSQL",
+        "UI/UX Design",
+        "Marketing"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "Iron Range Cyber, formerly CyberOpz",
+      "position": "SOC Analyst",
+      "location_type": "Remote",
+      "location": "Raleigh, North Carolina",
+      "url": "https://ironrangecyber.com",
+      "startDate": "2021-06-01",
+      "endDate": "2021-11-22",
+      "summary": "Responsible for monitoring endpoints, reporting any security incidents to senior SOC analysts, and investigating cyber forensics of any hacking attempt or breach of client assets.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "Contributed to streamlining processes for a startup cyber security company. Reduced critical client security incidents 100% by catching any breaches of security early enough to prevent loss of assets and criticial information."
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Improved incident response rate by 15% by coordinating with SOC managers\nand analyzing security events.",
+        "Managed over 100 security assessments using Nessus, Wireshark, and Metasploit tools.",
+        "Enhanced system security by evaluating and improving authentication methods by 20%.",
+        "Informed cyber defenders, ensuring threat awareness for 50 potential impacts.",
+        "Influenced cyber strategy for 5 clients by presenting clear technical solutions.",
+        "Reduced overall incident response time by 30%, optimizing threat detection processes using Malwarebytes, Witfoo, and IRIS."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Learned cybersecurity and was capable of all job functions within the first month of being hired."
       ],
       "skills": [
         "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Pentesting",
+        "Networking",
+        "Threat Identification",
+        "Incident Response"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "WeisMind Studio",
+      "position": "Content Creator and Freelance Writer",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "location": "Durham, NC, USA",
+      "startDate": "2016-09-01",
+      "endDate": "Present",
+      "summary": "Created multiple blogs and completed freelance writing assignments for over 50 clients.",
       "highlights": [
-        "Completed several client projects successfully"
+        "Manage two newsletters that total over 500 monthly readers together.",
+        "Currently publishing content every day for the next 100 days.",
+        "Write about data structures and algorithms, system design, and other programming topics on Dev.to.",
+        "Use technical writing to create tutorials on next-gen technologies like Deno and Supabase.",
+        "Discover, review, and write about new tools and frameworks that assist other developers in creating apps."
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Markup",
+        "SEO",
+        "Technical Writing",
+        "Research",
+        "Design"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Local Coding Club",
+      "organization": "Autism Speaks",
       "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "url": "https://autismspeaks.org/",
+      "startDate": "2010-08-30",
+      "endDate": "2014-05-01",
+      "summary": "Helped organize philanthropy events as a member of the Pi Kappa Alpha fraternity.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Collaborate with AXiD to put on the annual Nacho Feed Fundraising event that raises over $10,000 each event."
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
+      "institution": "University of Nebraska-Lincoln",
+      "url": "https://unl.edu",
+      "area": "Business Administration and Finance",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
+      "startDate": "2010-09-01",
+      "endDate": "2014-05-10",
+      "score": "3.2",
+      "courses": [
+        "CS50 - Matlab",
+        "MRKT341 - Advanced Marketing",
+        "FIN400 - Corporate Finance",
+        "MIS151 - Management of Information Systems and Supply Chain"
+      ]
+    },
+    {
+      "institution": "University of Nebraska-Omaha",
+      "url": "https://unomaha.edu",
+      "area": "Economics",
+      "studyType": "Master",
+      "startDate": "2015-09-01",
+      "endDate": "2016-12-01",
       "score": "3.8",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
+        "ECON401 - Econometrics",
+        "MATH400 - Differential Equations"
       ]
     }
   ],
   "certificates": [
     {
       "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "date": "2021-12-31",
+      "issuer": "Dr. Angela Yu",
+      "url": "https://londonappbrewery.com"
     }
   ],
   "skills": [
     {
       "name": "Figma",
-      "level": "Expert",
+      "level": "Intermediate",
       "keywords": [
         "Design",
         "UI"
@@ -186,7 +193,7 @@
     },
     {
       "name": "HTML",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Web Development",
         "Frontend"
@@ -194,7 +201,7 @@
     },
     {
       "name": "CSS",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -203,7 +210,7 @@
     },
     {
       "name": "JavaScript",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -213,7 +220,7 @@
     },
     {
       "name": "Tailwind",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -233,7 +240,7 @@
     },
     {
       "name": "Node",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Web Development",
         "Backend",
@@ -253,7 +260,7 @@
     },
     {
       "name": "Git",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Version Control",
         "Collaboration",
@@ -262,7 +269,7 @@
     },
     {
       "name": "GitHub",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Version Control",
         "Collaboration",
@@ -272,7 +279,7 @@
     },
     {
       "name": "Next.js",
-      "level": "Beginner",
+      "level": "Intermediate",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -283,7 +290,7 @@
     },
     {
       "name": "React",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -296,10 +303,6 @@
     {
       "language": "English",
       "fluency": "Native speaker"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Intermediate"
     }
   ],
   "interests": [
@@ -307,58 +310,143 @@
       "name": "Technology",
       "keywords": [
         "AI",
-        "Blockchain"
+        "Blockchain",
+        "Web Development",
+        "Computer Science",
+        "UX Design"
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "keywords": [
+        "Marketing",
+        "SEO",
+        "Content Creation",
+        "Freelancing"
+      ]
+    },
+    {
+      "name": "Open Source",
+      "keywords": [
+        "GitHub",
+        "Awesome Lists",
+        "Community",
+        "Programming",
+        "Roadmap.sh"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "keywords": [
+        "Data Structures",
+        "Algorithms",
+        "System Design"
       ]
     }
   ],
   "references": [
     {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "name": "Joanna Falkl",
+      "reference": "Reference"
+    },
+    {
+      "name": "Candy Champion",
+      "reference": "Reference"
+    },
+    {
+      "name": "Josh Knoedler",
+      "reference": "Reference/Former Boss"
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "name": "My Resume Site",
+      "isActive": true,
+      "description": "A resume website to showcase my projects and skills.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Built with Astro and Tailwind CSS",
+        "Includes printable resume, keyboard commands, experience and skills section, and projects section."
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "https://andrewweisbeck.com",
+      "github": "https://github.com/geauxweisbeck4/andrews-resume-site"
     },
     {
-      "name": "Weather App",
+      "name": "GeauxWeisbeck4.dev",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "A personal portfolio website and dev journal for sharing my projects and a place where I can share developer resources and write about what I'm learning.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Built with React, Svelte, Astro, PostgreSQL, Strapi CMS, and Tailwind CSS",
+        "Third version of this website I've developed"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://geauxweisbeck4.dev",
+      "github": "https://github.com/geauxweisbeck4/geauxweisbeck4.dev"
     },
     {
-      "name": "Task Manager",
+      "name": "Django CFB Blog App",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "A full-stack college football blog that I created with Django.",
       "highlights": [
-        "Built with Node.js and MongoDB",
+        "Built with Django, PostgreSQL, and Next.js",
         "User authentication and CRUD operations"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://huskerjs.vercel.app",
+      "github": "https://github.com/geauxweisbeck4/huskerjs-dev"
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "Crossfit Workout of the Day API",
+      "isActive": true,
+      "description": "An API that allows users to pull a new workout from Crossfit WOD API.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Integrated with MongoDB Backend to store Crossfit workouts",
+        "Working on second version with new functionality"
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://github.com/GeauxWeisbeck4/crossfit-wod-api",
+      "github": "https://github.com/GeauxWeisbeck4/crossfit-wod-api"
+    },
+    {
+      "name": "Astro Garden Theme",
+      "isActive": true,
+      "description": "A starter template that allows developers to quickly build a digital garden with Astro.",
+      "highlights": [
+        "Built with React, Astro, TypeScript, and Tailwind CSS",
+        "Developing a paid version with design system that includes more functionality"
+      ],
+      "url": "https://astro-garden-theme.netlify.app",
+      "github": "https://github.com/geauxweisbeck4/geauxweisbeck4.dev"
+    },
+    {
+      "name": "Tar Heel Dev Studio Website",
+      "isActive": true,
+      "description": "Company Marketing Website and Landing Page",
+      "highlights": [
+        "Google Lighthouse score of 100 in all categories",
+        "Actively maintain blog posts and other content for new visitors",
+        "Monitor and track user behavior and site performance with Sentry"
+      ],
+      "url": "https://tarheeldevstudio.com",
+      "github": "https://github.com/geauxweisbeck4/tar-heel-dev-studio-v3"
+    },
+    {
+      "name": "Geaux Tweet",
+      "isActive": true,
+      "description": "A Twitter knock-off clone that allows users to Tweet, like tweets, and login.",
+      "highlights": [
+        "Full-stack application built with Supabase, Next.js, and TailwindCSS",
+        "Authentication login capabilities using Google, GitHub, and email"
+      ],
+      "url": "https://geaux-tweet.vercel.app/",
+      "github": "https://github.com/GeauxWeisbeck4/geaux-tweet"
+    },
+    {
+      "name": "Roadmap.sh Roadmaps and Projects",
+      "isActive": true,
+      "description": "Learning and sharpening programming skills with Roadmap.sh projects and roadmaps.",
+      "highlights": [
+        "Completed HTML Single Page CV for Frontend Projects and working on completing all of them",
+        "Worked through Data Structures and Algorithms, JavaScript, and Python Roadmaps"
+      ],
+      "url": "https://roadmap.sh/u/geauxweisbeck4",
+      "github": "https://github.com/geauxweisbeck4/roadmap.sh-progress"
     }
   ]
 }
